@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "985866733460",
+    "project_id": "moviles-2026a-gr1-jcap",
+    "storage_bucket": "moviles-2026a-gr1-jcap.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985866733460:android:63ccf13de2431812a73181",
+        "android_client_info": {
+          "package_name": "com.example.moviles2026aswgre1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPuUXDM2T9xjIDe4YQvzLL8Hwz-A1hp-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

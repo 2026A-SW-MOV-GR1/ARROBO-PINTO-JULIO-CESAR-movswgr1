@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="saludo"> Hola Mundo! - Horizontall</string>
+    <!-- Texto -->
+    <color name="color_texto">#FF0000</color>
+
+    <!-- Fondo -->
+    <color name="color_fondo">#512DA8</color>
+
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Texto -->
+    <color name="color_texto">#00E5FF</color>
+
+    <!-- Fondo -->
+    <color name="color_fondo">#34D399</color>
+
+</resources>

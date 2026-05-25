@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="saludo"> Hello Word!</string>
+    <color name="color_texto">#FFFFFF</color>
+
+    <!-- Fondo -->
+    <color name="color_fondo">#D32F2F</color>
+
+</resources>
