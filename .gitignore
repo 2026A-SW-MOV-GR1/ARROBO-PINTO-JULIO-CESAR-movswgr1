@@ -1,0 +1,22 @@
+# Android Studio
+**/.idea/
+**/.gradle/
+**/build/
+*.iml
+
+# Configuración local
+**/local.properties
+
+# Archivos compilados
+*.class
+*.apk
+*.aab
+
+# Directorios generados
+**/.externalNativeBuild/
+**/.cxx/
+**/captures/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db

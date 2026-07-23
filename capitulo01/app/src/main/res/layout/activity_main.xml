@@ -14,14 +14,15 @@
         android:id="@+id/textView2"
         android:layout_width="154dp"
         android:layout_height="64dp"
-        android:textColor="@color/color_texto"
         android:text="@string/saludo"
+        android:textColor="@color/color_texto"
         android:textSize="24sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.541"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.547" />
+        app:layout_constraintVertical_bias="0.547"
+        tools:ignore="TextSizeCheck,TextContrastCheck" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
