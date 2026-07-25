@@ -1,0 +1,17 @@
+<resources>
+
+    <string name="app_name">Ciclo de Vida y Persistencia</string>
+
+    <string name="title_counter">Contador de ciclos de vida</string>
+
+    <string name="description_counter">
+        Incrementa el contador y gira la pantalla
+    </string>
+
+    <string name="initial_count">0</string>
+
+    <string name="increment_button">Sumar +1</string>
+
+    <string name="count_format">%1$d</string>
+
+</resources>
